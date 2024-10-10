@@ -8,6 +8,8 @@ For reproducing code, See [test_double_close_provider](src/lib.rs)
 
 # How to re-produce
 
+My Machine OS: "Windows Server 2019 Datacenter" Version 1809
+
 Simply run `cargo test` multiple times.
 
 Below is a log on my machine, I had to re-run it multiple times before it crashed.
